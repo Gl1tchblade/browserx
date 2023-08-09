@@ -12,3 +12,6 @@ Browser X is a fully private browser that allows you to browse using DuckDuckGo.
 ## How to use
 1. First download [python](https://www.python.org/downloads/)
 2. Go to your command prompt and use this command: ```git clone https://github.com/Gl1tchblade/browserx.git```
+3. Go to the directory: ```cd browserx```
+4. Run the command: ```python main.py```
+5. A new window should open with Browser X
